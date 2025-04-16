@@ -5,8 +5,7 @@ This project applies the **K-Nearest Neighbors (KNN)** machine learning algorith
 ---
 
 ## 🧠 CaseStudy
-
-A telecom company wants to predict the customer segment for new users based on historical data. Customers are classified into four groups depending on their demographics and service usage patterns:
+A telecom company has segmented its customers into four groups based on demographic data, such as region, age, and marital status. They want to segment new customers into groups. The target field, called custcat, has four possible values ​​corresponding to the four customer groups, as follows:
 
 | Value | Customer Group      |
 |-------|----------------------|
@@ -14,6 +13,9 @@ A telecom company wants to predict the customer segment for new users based on h
 | 2     | E-Service            |
 | 3     | Plus Service         |
 | 4     | Total Service        |
+
+---
+## ## 🎯 Project Objective
 
 Our task is to build a predictive model using **K-Nearest Neighbors** to automate this customer grouping process.
 
