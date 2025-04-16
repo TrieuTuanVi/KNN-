@@ -1,4 +1,4 @@
-# Project Python Machine Learning: Customer Segmentation using KNN (K-Nearest Neighbors) for a Telecom Company
+# Project Python - Machine Learning: Customer Segmentation using KNN (K-Nearest Neighbors) for a Telecom Company
 
 This project applies the **K-Nearest Neighbors (KNN)** algorithm to classify new telecom customers into predefined customer groups based on demographic data such as **region, age, and marital status**. This segmentation helps the company optimize marketing strategies and personalize service offerings.
 
