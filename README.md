@@ -27,8 +27,18 @@ K-Nearest Neighbors is an algorithm for supervised learning. Where the data is '
 
 <img src="https://ibm.box.com/shared/static/mgkn92xck0z05v7yjq8pqziukxvc2461.png">
 
-## 📂 Dataset Overview
+---
+## 📚 Table of contents
 
+1. Load the Cancer data
+2. Modeling
+3. Evaluation
+4. Practice
+
+---
+
+## 📂 Dataset 
+<a href= "https://github.com/TrieuTuanVi/KNN-ALGORITHM/blob/main/knn_data.csv">Dataset</a>
 The dataset consists of multiple customer attributes:
 
 - **Region**: Geographic area (integer value).
