@@ -4,7 +4,7 @@ This project applies the **K-Nearest Neighbors (KNN)** machine learning algorith
 
 ---
 
-## 💡 Problem Statement
+## 💡 CaseStudy
 
 A telecom company wants to predict the customer segment for new users based on historical data. Customers are classified into four groups depending on their demographics and service usage patterns:
 
@@ -18,6 +18,14 @@ A telecom company wants to predict the customer segment for new users based on h
 Our task is to build a predictive model using **K-Nearest Neighbors** to automate this customer grouping process.
 
 ---
+
+## 🔍 About K-Nearest Neighbors (KNN)
+
+K-Nearest Neighbors is an algorithm for supervised learning. Where the data is 'trained' with data points corresponding to their classification. Once a point is to be predicted, it takes into account the 'K' nearest points to it to determine it's classification.
+
+### Here's an visualization of the K-Nearest Neighbors algorithm.
+
+<img src="https://ibm.box.com/shared/static/mgkn92xck0z05v7yjq8pqziukxvc2461.png">
 
 ## 📂 Dataset Overview
 
@@ -68,20 +76,4 @@ The project follows a clear machine learning pipeline:
 
 ---
 
-## 🔥 Model Results
-
-The model shows reliable predictive power, achieving solid accuracy on unseen test data.
-
-Key metrics include:
-- **Accuracy Score:** ~ *[Insert your value here]*.
-- **Confusion Matrix:** To analyze true positives, false negatives, and misclassifications.
-- **Classification Report:** Precision, recall, and F1-score per class.
-
----
-
-## 🧠 Insights & Benefits
-
-- Identifying customer types helps the company focus resources on high-value groups.
-- Segmentation supports targeted marketing campaigns.
-- The model can be retrained and improved as more data is collected.
 
