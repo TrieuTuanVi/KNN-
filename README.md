@@ -4,7 +4,7 @@ This project applies the **K-Nearest Neighbors (KNN)** machine learning algorith
 
 ---
 
-## 💡 CaseStudy
+## 🧠 CaseStudy
 
 A telecom company wants to predict the customer segment for new users based on historical data. Customers are classified into four groups depending on their demographics and service usage patterns:
 
@@ -37,7 +37,9 @@ K-Nearest Neighbors is an algorithm for supervised learning. Where the data is '
 
 ---
 
-## 📂 Dataset <a href= "https://github.com/TrieuTuanVi/KNN-ALGORITHM/blob/main/knn_data.csv">Dataset</a>
+## 📂 Dataset 
+
+- <a href= "https://github.com/TrieuTuanVi/KNN-ALGORITHM/blob/main/knn_data.csv">Dataset</a>
 
 The dataset consists of multiple customer attributes:
 
@@ -79,11 +81,29 @@ The project follows a clear machine learning pipeline:
 
 - Predicted labels on the test set.
 - Evaluated model performance using:
-  - **Accuracy Score**
-  - **Confusion Matrix**
-  - **Classification Report**
 - Visualized the accuracy trend for different `k` values to fine-tune hyperparameters.
 
 ---
+## ✅ Model Results
+
+The model shows reliable predictive power, achieving solid accuracy on unseen test data.
+
+- Breakdown of Customer Categories:
+  - **Class 1** (Basic-service): 266 samples
+
+  - **Class 2** (E-Service): 217 samples
+
+  - **Class 3** (Plus Service): 281 samples
+
+  - **Class 4** (Total Service): 236 samples
+
+- Model Accuracy:
+
+  - Train set Accuracy: 0.51625
+
+  - Test set Accuracy: 0.31
+
+- Best K Value for KNN Model: After experimenting with different values for K, the best accuracy was achieved with **K = **9, yielding an **accuracy = 0.34**.
+
 
 
