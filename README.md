@@ -54,6 +54,14 @@ The dataset consists of multiple customer attributes:
 This dataset is ideal for classification tasks, especially using algorithms like KNN which rely on distance-based similarity.
 
 ---
+## 🛠️Tools & Technologies Used
+
+- Python
+- Scikit-learn
+- Pandas
+- Matplotlib / Seaborn
+  
+---
 
 ## ⚙️ Project Structure
 
@@ -84,7 +92,7 @@ The project follows a clear machine learning pipeline:
 - Visualized the accuracy trend for different `k` values to fine-tune hyperparameters.
 
 ---
-## ✅ Model Results
+## 💡 Model Results
 
 The model shows reliable predictive power, achieving solid accuracy on unseen test data.
 
@@ -99,11 +107,28 @@ The model shows reliable predictive power, achieving solid accuracy on unseen te
 
 - Model Accuracy:
 
-  - Train set Accuracy: 0.51625
+  - **Train set Accuracy**: 0.51625
 
-  - Test set Accuracy: 0.31
+  - **Test set Accuracy**: 0.31
 
 - Best K Value for KNN Model: After experimenting with different values for K, the best accuracy was achieved with **K = **9, yielding an **accuracy = 0.34**.
+
+![image](https://github.com/user-attachments/assets/96c60030-5cfc-4eb6-9110-1efdfc19a8e0)
+
+---
+## 🏆 Business Impact
+
+* Marketing Optimization: Segment-specific offers and promotions.
+
+* Customer Retention: Proactive engagement for high-value groups.
+
+* Data-Driven Decisions: Efficient allocation of customer service resources.Business Impact
+
+---
+
+## ✅ Conclusion
+This project demonstrates the power of K-Nearest Neighbors (KNN) in solving classification problems in real-world business scenarios, particularly for customer segmentation in the telecom industry. With this model, the company can enhance customer experiences and create better marketing strategies.
+
 
 
 
