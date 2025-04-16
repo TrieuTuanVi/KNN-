@@ -1,2 +1,1 @@
-# KNN-
-applying K-Nearest Neighbor algorithm to classify telecom customers into service categories based on demographic data
+# Project Python Machine Learning: Customer Segmentation using KNN (K-Nearest Neighbors) for a Telecom Company
