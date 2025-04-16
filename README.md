@@ -15,7 +15,7 @@ A telecom company has segmented its customers into four groups based on demograp
 | 4     | Total Service        |
 
 ---
-## ## 🎯 Project Objective
+## 🎯 Project Objective
 
 Our task is to build a predictive model using **K-Nearest Neighbors** to automate this customer grouping process.
 
