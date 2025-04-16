@@ -37,8 +37,8 @@ K-Nearest Neighbors is an algorithm for supervised learning. Where the data is '
 
 ---
 
-## 📂 Dataset 
-<a href= "https://github.com/TrieuTuanVi/KNN-ALGORITHM/blob/main/knn_data.csv">Dataset</a>
+## 📂 Dataset <a href= "https://github.com/TrieuTuanVi/KNN-ALGORITHM/blob/main/knn_data.csv">Dataset</a>
+
 The dataset consists of multiple customer attributes:
 
 - **Region**: Geographic area (integer value).
