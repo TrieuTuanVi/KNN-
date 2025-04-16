@@ -36,10 +36,9 @@ In this sense, it is important to consider the value of k. But hopefully from th
 ---
 ## 📚 Table of contents
 
-1. Load the Cancer data
-2. Modeling
-3. Evaluation
-4. Practice
+1. About the dataset
+2. Data Visualization and Analysis
+3. Classification
 
 ---
 
