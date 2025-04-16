@@ -41,11 +41,9 @@ The dataset contains demographic and account-related information for each custom
 - Pandas
 - NumPy
 - Matplotlib & Seaborn
-- Jupyter Notebook
-
 ---
 
-## 💡 Methodology
+## 📝 Methodology
 
 1. **Data Preprocessing**
     - Handle missing values.
