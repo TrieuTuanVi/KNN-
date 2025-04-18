@@ -4,7 +4,7 @@ This project applies the **K-Nearest Neighbors (KNN)** machine learning algorith
 
 ---
 
-## 🧠 CaseStudy
+## 🔍 CaseStudy
 A telecom company has segmented its customers into four groups based on demographic data, such as region, age, and marital status. They want to segment new customers into groups. The target field, called custcat, has four possible values ​​corresponding to the four customer groups, as follows:
 
 | Value | Customer Group      |
@@ -21,7 +21,7 @@ Our task is to build a predictive model using **K-Nearest Neighbors** to automat
 
 ---
 
-## 🔍 About K-Nearest Neighbors (KNN)
+## 📃 About K-Nearest Neighbors (KNN)
 
 K-Nearest Neighbors is an algorithm for supervised learning. Where the data is 'trained' with data points corresponding to their classification. Once a point is to be predicted, it takes into account the 'K' nearest points to it to determine it's classification.
 
@@ -34,7 +34,7 @@ In this case, we have data points of Class A and B. We want to predict what the 
 In this sense, it is important to consider the value of k. But hopefully from this diagram, you should get a sense of what the K-Nearest Neighbors algorithm is. It considers the 'K' Nearest Neighbors (points) when it predicts the classification of the test point.
 
 ---
-## 📚 Table of contents
+## 📋 Table of contents
 
 1. About the dataset
 2. Data Visualization and Analysis
@@ -98,7 +98,7 @@ The project follows a clear machine learning pipeline:
 - Visualized the accuracy trend for different `k` values to fine-tune hyperparameters.
 
 ---
-## 💡 Model Results
+## ✅ Model Results
 
 The model shows reliable predictive power, achieving solid accuracy on unseen test data.
 
@@ -132,7 +132,7 @@ The model shows reliable predictive power, achieving solid accuracy on unseen te
 
 ---
 
-## ✅ Conclusion
+## 💡 Conclusion
 This project demonstrates the power of K-Nearest Neighbors (KNN) in solving classification problems in real-world business scenarios, particularly for customer segmentation in the telecom industry. With this model, the company can enhance customer experiences and create better marketing strategies.
 
 
